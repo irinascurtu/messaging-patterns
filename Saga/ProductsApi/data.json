@@ -1,0 +1,306 @@
+[
+  {
+    "Name": "Apple iPhone 14",
+    "Description": "Latest model of the Apple iPhone series with improved features.",
+    "Price": 999.99,
+    "Stock": 50,
+    "LongDescription": "The Apple iPhone 14 features a sleek design, advanced camera system, and powerful A15 Bionic chip, offering unparalleled performance and an exceptional user experience.",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Samsung Galaxy S21",
+    "Description": "High-end smartphone from Samsung with excellent performance.",
+    "Price": 799.99,
+    "Stock": 75,
+    "LongDescription": "The Samsung Galaxy S21 boasts a dynamic AMOLED display, top-of-the-line Exynos 2100 processor, and a versatile camera setup, making it a top choice for smartphone enthusiasts.",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Sony WH-1000XM4",
+    "Description": "Noise-cancelling over-ear headphones with superior sound quality.",
+    "Price": 349.99,
+    "Stock": 200,
+    "LongDescription": "Sony WH-1000XM4 headphones deliver industry-leading noise cancellation, exceptional sound quality, and all-day comfort, perfect for music lovers and frequent travelers.",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Dell XPS 13",
+    "Description": "Compact and powerful laptop with a 13-inch display.",
+    "Price": 1199.99,
+    "Stock": 30,
+    "LongDescription": "The Dell XPS 13 offers a stunning 13-inch InfinityEdge display, powerful Intel processors, and a lightweight, durable design, making it ideal for professionals on the go.",
+    "CategoryId": 3
+  },
+  {
+    "Name": "Apple MacBook Air",
+    "Description": "Lightweight and efficient laptop with Apple's M1 chip.",
+    "Price": 999.99,
+    "Stock": 40,
+    "LongDescription": "The Apple MacBook Air features the revolutionary M1 chip, delivering incredible performance and efficiency in a sleek, lightweight design, perfect for everyday computing needs.",
+    "CategoryId": 3
+  },
+  {
+    "Name": "Google Pixel 6",
+    "Description": "Google's flagship smartphone with an advanced camera.",
+    "Price": 699.99,
+    "Stock": 60,
+    "LongDescription": "The Google Pixel 6 offers a stunning display, powerful Google Tensor chip, and an advanced camera system that captures stunning photos and videos in any lighting condition.",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Banana",
+    "Description": "A sweet and nutritious fruit, perfect for snacking.",
+    "Price": 0.50,
+    "Stock": 500,
+    "LongDescription": "Bananas are a delicious and convenient snack, rich in potassium and vitamins, providing a quick energy boost and supporting heart health.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Apple",
+    "Description": "Crisp and juicy, available in various varieties.",
+    "Price": 0.75,
+    "Stock": 300,
+    "LongDescription": "Apples are a versatile fruit, available in a variety of flavors and textures, perfect for snacking, baking, and adding to salads for a crisp, juicy bite.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Orange",
+    "Description": "A citrus fruit rich in Vitamin C, great for juicing.",
+    "Price": 0.80,
+    "Stock": 250,
+    "LongDescription": "Oranges are a popular citrus fruit, packed with Vitamin C and antioxidants, ideal for juicing, snacking, and adding a tangy flavor to various dishes.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Strawberry",
+    "Description": "Sweet and tart berries, perfect for desserts and snacks.",
+    "Price": 3.99,
+    "Stock": 150,
+    "LongDescription": "Strawberries are sweet, juicy berries, perfect for desserts, smoothies, and snacks, offering a burst of flavor and numerous health benefits.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Broccoli",
+    "Description": "A healthy green vegetable, rich in vitamins and minerals.",
+    "Price": 1.50,
+    "Stock": 100,
+    "LongDescription": "Broccoli is a nutritious green vegetable, rich in vitamins, minerals, and antioxidants, great for steaming, roasting, and adding to a variety of dishes.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Carrot",
+    "Description": "A crunchy and sweet vegetable, great for salads and snacks.",
+    "Price": 0.30,
+    "Stock": 400,
+    "LongDescription": "Carrots are a crunchy, sweet vegetable, perfect for salads, snacking, and cooking, packed with beta-carotene, fiber, and essential nutrients.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Lettuce",
+    "Description": "A fresh and crisp leafy green, ideal for salads.",
+    "Price": 1.00,
+    "Stock": 200,
+    "LongDescription": "Lettuce is a fresh, crisp leafy green, ideal for salads, sandwiches, and wraps, offering a low-calorie source of vitamins and minerals.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Tomato",
+    "Description": "Juicy and versatile, perfect for salads, sauces, and sandwiches.",
+    "Price": 1.20,
+    "Stock": 180,
+    "LongDescription": "Tomatoes are juicy, versatile fruits, perfect for salads, sauces, and sandwiches, rich in vitamins, antioxidants, and a key ingredient in many cuisines.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Cucumber",
+    "Description": "Cool and refreshing, great for salads and snacks.",
+    "Price": 0.90,
+    "Stock": 250,
+    "LongDescription": "Cucumbers are cool, refreshing vegetables, great for salads, snacks, and infusing water, providing hydration and a mild, crisp flavor.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Potato",
+    "Description": "A versatile vegetable, perfect for baking, frying, and mashing.",
+    "Price": 0.60,
+    "Stock": 350,
+    "LongDescription": "Potatoes are a versatile vegetable, perfect for baking, frying, mashing, and adding to stews, rich in carbohydrates and essential nutrients.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Onion",
+    "Description": "A flavorful vegetable, essential for many dishes.",
+    "Price": 0.40,
+    "Stock": 300,
+    "LongDescription": "Onions are a flavorful vegetable, essential for many dishes, providing a base for soups, stews, and sauces, with a variety of types to choose from.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Garlic",
+    "Description": "A pungent and flavorful bulb, used in many cuisines.",
+    "Price": 1.00,
+    "Stock": 150,
+    "LongDescription": "Garlic is a pungent, flavorful bulb, used in many cuisines to enhance the flavor of dishes, offering numerous health benefits and culinary versatility.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Sony PlayStation 5",
+    "Description": "Next-generation gaming console with advanced graphics.",
+    "Price": 499.99,
+    "Stock": 20,
+    "LongDescription": "The Sony PlayStation 5 delivers next-generation gaming with advanced graphics, lightning-fast load times, and an extensive library of exclusive games.",
+    "CategoryId": 6
+  },
+  {
+    "Name": "Xbox Series X",
+    "Description": "Powerful gaming console from Microsoft with 4K gaming.",
+    "Price": 499.99,
+    "Stock": 25,
+    "LongDescription": "The Xbox Series X offers powerful 4K gaming, quick resume functionality, and a vast game library, providing an immersive gaming experience.",
+    "CategoryId": 6
+  },
+  {
+    "Name": "Nintendo Switch",
+    "Description": "Hybrid gaming console for home and portable play.",
+    "Price": 299.99,
+    "Stock": 40,
+    "LongDescription": "The Nintendo Switch is a versatile hybrid gaming console, allowing for both home and portable play, with a wide range of exclusive games and features.",
+    "CategoryId": 6
+  },
+  {
+    "Name": "HP Spectre x360",
+    "Description": "High-end 2-in-1 laptop with a sleek design and powerful performance.",
+    "Price": 1299.99,
+    "Stock": 15,
+    "LongDescription": "The HP Spectre x360 is a high-end 2-in-1 laptop, featuring a sleek design, powerful performance, and versatile functionality for work and entertainment.",
+    "CategoryId": 3
+  },
+  {
+    "Name": "Asus ROG Zephyrus",
+    "Description": "Gaming laptop with high performance and a slim design.",
+    "Price": 1599.99,
+    "Stock": 20,
+    "LongDescription": "The Asus ROG Zephyrus is a high-performance gaming laptop with a slim design, powerful graphics, and advanced cooling system, perfect for serious gamers.",
+    "CategoryId": 3
+  },
+  {
+    "Name": "Mango",
+    "Description": "A sweet and tropical fruit, great for smoothies and desserts.",
+    "Price": 1.50,
+    "Stock": 200,
+    "LongDescription": "Mangoes are sweet, tropical fruits, great for smoothies, desserts, and snacking, rich in vitamins, antioxidants, and offering a taste of the tropics.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Blueberry",
+    "Description": "Small, sweet berries, perfect for baking and snacking.",
+    "Price": 4.99,
+    "Stock": 100,
+    "LongDescription": "Blueberries are small, sweet berries, perfect for baking, snacking, and adding to cereals, rich in antioxidants and vitamins.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Watermelon",
+    "Description": "A large, juicy fruit, perfect for summer.",
+    "Price": 5.00,
+    "Stock": 50,
+    "LongDescription": "Watermelons are large, juicy fruits, perfect for summer picnics and gatherings, providing a refreshing and hydrating treat.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Pineapple",
+    "Description": "A tropical fruit with a sweet and tangy flavor.",
+    "Price": 3.00,
+    "Stock": 70,
+    "LongDescription": "Pineapples are tropical fruits with a sweet and tangy flavor, great for snacking, adding to desserts, and enhancing savory dishes.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Kiwi",
+    "Description": "A small, tangy fruit with a fuzzy skin.",
+    "Price": 0.75,
+    "Stock": 150,
+    "LongDescription": "Kiwis are small, tangy fruits with a fuzzy skin, perfect for snacking, adding to fruit salads, and providing a boost of vitamins and fiber.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Grapes",
+    "Description": "Small, sweet, and juicy, available in various varieties.",
+    "Price": 2.99,
+    "Stock": 180,
+    "LongDescription": "Grapes are small, sweet, and juicy fruits, available in various varieties, perfect for snacking, adding to cheese boards, and making wine.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Pear",
+    "Description": "A sweet and juicy fruit with a smooth skin.",
+    "Price": 1.00,
+    "Stock": 200,
+    "LongDescription": "Pears are sweet, juicy fruits with a smooth skin, great for snacking, baking, and adding to salads, rich in fiber and vitamins.",
+    "CategoryId": 4
+  },
+  {
+    "Name": "Spinach",
+    "Description": "A nutritious leafy green, great for salads and cooking.",
+    "Price": 1.20,
+    "Stock": 180,
+    "LongDescription": "Spinach is a nutritious leafy green, great for salads, smoothies, and cooking, offering a rich source of vitamins, minerals, and antioxidants.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Zucchini",
+    "Description": "A versatile squash, great for grilling and baking.",
+    "Price": 1.00,
+    "Stock": 150,
+    "LongDescription": "Zucchini is a versatile squash, great for grilling, baking, and adding to a variety of dishes, providing a low-calorie source of nutrients and fiber.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Bell Pepper",
+    "Description": "Sweet and crunchy, available in various colors.",
+    "Price": 1.50,
+    "Stock": 120,
+    "LongDescription": "Bell peppers are sweet, crunchy vegetables, available in various colors, perfect for salads, stir-fries, and snacking, rich in vitamins and antioxidants.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Eggplant",
+    "Description": "A versatile vegetable, great for grilling and baking.",
+    "Price": 1.80,
+    "Stock": 90,
+    "LongDescription": "Eggplants are versatile vegetables, great for grilling, baking, and adding to a variety of dishes, offering a rich, meaty texture and numerous health benefits.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Cabbage",
+    "Description": "A leafy green, great for salads and cooking.",
+    "Price": 1.00,
+    "Stock": 130,
+    "LongDescription": "Cabbages are leafy green vegetables, great for salads, slaws, and cooking, offering a crunchy texture and a good source of vitamins and fiber.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Cauliflower",
+    "Description": "A nutritious vegetable, great for roasting and mashing.",
+    "Price": 2.00,
+    "Stock": 100,
+    "LongDescription": "Cauliflowers are nutritious vegetables, great for roasting, mashing, and adding to various dishes, providing a low-carb alternative and rich in vitamins.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Beetroot",
+    "Description": "A sweet and earthy root vegetable, great for salads and cooking.",
+    "Price": 1.20,
+    "Stock": 140,
+    "LongDescription": "Beetroots are sweet, earthy root vegetables, great for salads, roasting, and adding to smoothies, offering a rich source of vitamins and antioxidants.",
+    "CategoryId": 5
+  },
+  {
+    "Name": "Cherries",
+    "Description": "Sweet and tart berries, perfect for desserts and snacks.",
+    "Price": 5.99,
+    "Stock": 80,
+    "LongDescription": "Cherries are sweet, tart berries, perfect for desserts, snacks, and adding to cocktails, rich in antioxidants and providing numerous health benefits.",
+    "CategoryId": 4
+  }
+]
